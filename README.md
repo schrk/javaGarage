@@ -1,1 +1,1 @@
-Projeto feito em java simulando uma gragem com alguns tipos de veículos
+Projeto feito em java simulando uma garagem com alguns tipos de veículos.
